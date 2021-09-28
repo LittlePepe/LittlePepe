@@ -5,7 +5,10 @@
 
   🔑 I’m a designer and a beginner programmer
   
-   🔒 I’m studying pentest too
+   🔒 I’m studying:
+        front-end
+        UI/UX
+        Node-Js
    
 #
 
