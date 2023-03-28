@@ -1,13 +1,13 @@
 
 ![Little Pepe](https://user-images.githubusercontent.com/67488004/108145539-5ce20680-70aa-11eb-96b5-f728ae36f4f4.jpg)
 #
-### My name is Pepe:
+### My name is Pedro:
 
   🔑 I’m a designer and a beginner programmer
   
    🔒 I’m studying:
-        front-end
-        UI/UX
+        Python
+        MySQL
         Node-Js
    
 #
